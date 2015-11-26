@@ -1,0 +1,8 @@
+{
+  "name": "Detect OS",
+  "description": "Node.JS WebApp to redirecting users to AppStore",
+  "repository": "https://github.com/santiago/heroku-test",
+  "logo": "",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
