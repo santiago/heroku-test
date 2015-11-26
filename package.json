@@ -1,0 +1,22 @@
+{
+  "name": "detect-device-webapp",
+  "version": "1.0.0",
+  "description": "Detect OS from device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wrkbench/detect-device-webapp.git"
+  },
+  "author": "Santiago GL <sgaviria@gmail.com> (http://github.com/santiago)",
+  "license": "Copyright Monimus, LLC",
+  "bugs": {
+    "url": "https://github.com/wrkbench/detect-device-webapp/issues"
+  },
+  "homepage": "https://github.com/wrkbench/detect-device-webapp",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
